@@ -33,39 +33,39 @@ A 3D web simulation of an underground hidden market, where users navigate to and
 <table>
   <tr>
     <td width="50%">
-      <img src="./deepvault-1.png" alt="Deepvault Screenshot 1" width="100%">
+      <img src="./images/deepvault-1.png" alt="Deepvault Screenshot 1" width="100%">
     </td>
     <td width="50%">
-      <img src="./deepvault-2.png" alt="Deepvault Screenshot 2" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="./deepvault-3.png" alt="Deepvault Screenshot 3" width="100%">
-    </td>
-    <td width="50%">
-      <img src="./deepvault-4.png" alt="Deepvault Screenshot 4" width="100%">
+      <img src="./images/deepvault-2.png" alt="Deepvault Screenshot 2" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./deepvault-5.png" alt="Deepvault Screenshot 5" width="100%">
+      <img src="./images/deepvault-3.png" alt="Deepvault Screenshot 3" width="100%">
     </td>
     <td width="50%">
-      <img src="./deepvault-6.png" alt="Deepvault Screenshot 6" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="./deepvault-7.png" alt="Deepvault Screenshot 7" width="100%">
-    </td>
-    <td width="50%">
-      <img src="./deepvault-8.png" alt="Deepvault Screenshot 8" width="100%">
+      <img src="./images/deepvault-4.png" alt="Deepvault Screenshot 4" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./deepvault-9.png" alt="Deepvault Screenshot 9" width="100%">
+      <img src="./images/deepvault-5.png" alt="Deepvault Screenshot 5" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./images/deepvault-6.png" alt="Deepvault Screenshot 6" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./images/deepvault-7.png" alt="Deepvault Screenshot 7" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./images/deepvault-8.png" alt="Deepvault Screenshot 8" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./images/deepvault-9.png" alt="Deepvault Screenshot 9" width="100%">
     </td>
     <td width="50%"></td>
   </tr>
